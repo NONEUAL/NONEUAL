@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Gabriel Velasquez 
 #### I am a First year Student at Olivarez Tagaytay and a junior developer, I'm 17 years old and this is my skills and hobbies
 
-My passion for volleyball and basketball, combined with my dedication to gaming, has shaped me into a well-rounded individual with a strong foundation of skills that are highly transferable to professional settings. Reaching the pinnacle of Mobile Legends, Mythical Glory, has been a rewarding journey that has equipped me with invaluable qualities.
+My passion for volleyball and basketball, combined with my dedication to gaming, has shaped me into a well-rounded individual with a strong foundation of skills that are highly transferable to professional settings.
+
+Key Skills Developed:
 
 1. 🎯 Perfecting my plays through constant practice and analysis
 2. 🧠 Developing complex strategies to outmaneuver opponents
