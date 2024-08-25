@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Gabriel Velasquez 
 #### I am a First year Student at Olivarez Tagaytay and a junior developer, i'm 17 years old and this is my skills and hobbies
 
-**'Wannabe Developer (First year Student at Olivarez Tagaytay)'** 
+##*'Wannabe Developer (First year Student at Olivarez Tagaytay)'* 
 
 my hobbies are 
 
