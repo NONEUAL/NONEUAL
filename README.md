@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Gabriel Velasquez 
+### Hi there 👋, my name is Gabriel Velasquez <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 #### I am a First year Student at Olivarez Tagaytay, I'm 17 years old and this is my skills and hobbies
 
 My passion for volleyball and basketball, combined with my dedication to gaming, has shaped me into a well-rounded individual with a strong foundation of skills that are highly transferable to professional settings.
